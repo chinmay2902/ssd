@@ -1,0 +1,26 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X_002.jpeg</filename>
+	<path>E:\MajorProject\Check Model\TrainSet\X\X_002.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>823</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1454</xmin>
+			<ymin>479</ymin>
+			<xmax>2021</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>

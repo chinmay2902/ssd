@@ -1,0 +1,38 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X_046.jpeg</filename>
+	<path>E:\MajorProject\Check Model\TrainSet\X\X_046.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>1057</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1729</xmin>
+			<ymin>673</ymin>
+			<xmax>1977</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1738</xmin>
+			<ymin>678</ymin>
+			<xmax>2012</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

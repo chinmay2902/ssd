@@ -1,0 +1,26 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X_022.jpeg</filename>
+	<path>E:\MajorProject\Check Model\TestSet\X\X_022.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>935</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1624</xmin>
+			<ymin>566</ymin>
+			<xmax>1824</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>
